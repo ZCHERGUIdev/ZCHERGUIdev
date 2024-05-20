@@ -5,7 +5,7 @@
 - 👀 I’m interested in Mobile/Web Apps Development
 - 🌱 I’m currently learning Flutter and advanced new things in Android
 
- ![Ian's github stats](https://github-readme-stats.vercel.app/api?username=ZCHERGUIdev&theme=dracula&show_icons=true&count_private=true)
+ ![Ian's github stats](https://github-readme-stats.vercel.app/api?username=ZCHERGUIdev&theme=highcontrast&show_icons=true&count_private=true)
 
 #### Social Media
  You can find me in all these places:
