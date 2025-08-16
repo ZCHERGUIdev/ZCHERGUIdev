@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Zakaria Chergui 👋</h1>
 <p align="center">
-  <b>Flutter Developer</b> • Kotlin background • Based in Algeria
+  <b>Flutter Developer</b> • Kotlin background • Based in Albania
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 - 📱 **Flutter developer** building smooth, scalable cross-platform apps.
 - 🤖 Strong **native Android (Kotlin)** background with 5+ years of experience.
-- 🌐 Interested in Mobile/Web app development and product UX.
+- 🌐 Interested in Mobile/Web app development.
 - 🌱 Sharpening advanced Flutter patterns (state management, testing, CI/CD) and modern Android practices.
 
 ---
